@@ -2,7 +2,7 @@
   "name": "monster-search",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://samresh3d.github.io/Monster-Search",
+  "homepage": "https://monstersearch.netlify.app/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
